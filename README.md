@@ -10,13 +10,13 @@ Python 3.7.3 hoặc bất kỳ phiên bản nào khác <br>
       2.1. Mở ```Edit the system environment variables``` (Bấm WIN và tìm environment - Win 10)
       2.2. Chọn ``` Environment Variables...```
       2.3. Chọn Path >> Edit... >> New
-      2.4. Chèn đường dẫn đến folder Python và folder Scripts trong Python
-   3. Cài đặt thư viện hỗ trợ python. (Nếu dùng anaconda thì không cần cài vì đã được tích hợp sẵn)
+      2.4. Chèn đường dẫn đến folder Python và folder Scripts trong Python.
+   3. Cài đặt thư viện hỗ trợ python. (Nếu dùng anaconda thì không cần cài vì đã được tích hợp sẵn).
 
 ### Sử dụng
-Download chương trình về máy tính bằng GIT hoặc ZIP trong ```Clone or download```
+Download chương trình về máy tính bằng GIT hoặc ZIP trong ```Clone or download```.
 Chạy chương trình:
-   - Mở CMD (WIN + R)
+   - Mở CMD (WIN + R).
    - Di chuyển đến folder chương trình: ```cd duong-dan```
    - Chạy chương trình: ```python BM25.py duong-dan-1 duong-dan-2```
       + duong-dan-1: Path folder tập tài liệu
