@@ -5,7 +5,7 @@ Xây dựng hệ thông tìm kiếm trên máy tính dựa trên tập dữ li�
 Python 3.7.3 hoặc bất kỳ phiên bản nào khác <br>
 
 ### Cài đặt môi trường
-   1. Cài đặt Python: [Python 3.7.3] (https://www.python.org/downloads/release/python-373/) <br>
+   1. Cài đặt Python: [Python 3.7.3](https://www.python.org/downloads/release/python-373/) <br>
    2. Cài đặt môi trường:
       2.1. Mở ```Edit the system environment variables``` (Bấm WIN và tìm environment - Win 10)
       2.2. Chọn ``` Environment Variables...```
